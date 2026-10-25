@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Aurinko
+Comment=Auringonnousu, -lasku ja päivän pituus
+Comment[fi]=Auringonnousu, -lasku ja päivän pituus
+Exec=aurinko-desktop
+Icon=fi.oksanen.Aurinko
+Categories=Utility;Education;
+Terminal=false
+StartupNotify=true

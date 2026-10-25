@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>fi.oksanen.Aurinko</id>
+  <name>Aurinko</name>
+  <summary>Sunrise, sunset and daylight information</summary>
+  <summary xml:lang="fi">Auringonnousu, -lasku ja päivän pituus</summary>
+  <developer id="fi.oksanen"><name>Aurinko-projekti</name></developer>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <description>
+    <p>Desktop sun tracker with local calculations, a day and night sun path, monthly views and saved locations. It works without an internet connection.</p>
+    <p xml:lang="fi">Paikallisesti laskeva auringonseurantasovellus. Näyttää auringonnousun, -laskun, päivän ja yön aurinkoradan sekä kuukausitaulukon. Tukee tallennettavia omia sijainteja ja toimii ilman internetyhteyttä.</p>
+  </description>
+  <launchable type="desktop-id">fi.oksanen.Aurinko.desktop</launchable>
+  <url type="homepage">https://github.com/janneok/aurinko-desktop</url>
+  <categories>
+    <category>Education</category>
+    <category>Utility</category>
+  </categories>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="0.8.2" date="2026-10-25" />
+  </releases>
+</component>

@@ -1,0 +1,3 @@
+#pragma once
+// Generoidaan CMake-projektiversiosta. Älä muokkaa käsin.
+#define AURINKO_APP_VERSION "@PROJECT_VERSION@"

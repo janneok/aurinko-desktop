@@ -1,0 +1,19 @@
+/build/
+/build-*/
+/.qtcreator/
+*.user
+*.autosave
+*.qmlc
+*.jsc
+.flatpak-builder/
+flatpak-build/
+flatpak-repo/
+*.flatpak
+
+# Local builds, reports and personal settings
+__pycache__/
+*.py[cod]
+/tarkkuus-*.json
+/aurinko-flatpak-output/
+/dist/
+*.zip
